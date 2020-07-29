@@ -21,4 +21,6 @@ Este proyecto está en versión beta. Consideramos que el contenido va antes de 
 - [Llamadas realizadas a Línea Mujeres](https://datos.cdmx.gob.mx/explore/dataset/linea-mujeres/table/), Fecha de última actualización: 3 de abril de 2020
 - [Víctimas en carpetas de investigación FGJ](https://datos.cdmx.gob.mx/explore/dataset/victimas-en-carpetas-de-investigacion-pgj/table/), Fecha de última actualización: 21 de julio de 2020. 
 
-
+#### Jalisco
+- [Banco de datos. Banco Estatal de Datos de Casos e Información de Violencia Contra las Mujeres en Jalisco](https://baedavim.jalisco.gob.mx/inicio), Fecha de última actualización: año 2018. Presenta información del periodo 2015-2018.
+- [Comisión Estatal de Derechos Humanos Jalisco](http://cedhj.org.mx/estadisticas.asp), Fecha de última actualización: 30 de junio de 2020.
